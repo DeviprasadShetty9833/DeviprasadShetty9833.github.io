@@ -32,3 +32,11 @@ Changes:
 Example: “I’m an IT engineering student passionate about building intelligent systems that merge software and innovation.”
   - Currently Working 
   - Call-to-Action
+
+<div align="center">
+
+<footer>
+  <p>© 2025 My_Portfolio. Designed with ❤️ by Deviprasad Shetty</p>
+</footer>
+
+</div>
