@@ -33,6 +33,8 @@ Example: “I’m an IT engineering student passionate about building intelligen
   - Currently Working 
   - Call-to-Action
 
+---
+
 <div align="center">
 
 <footer>
