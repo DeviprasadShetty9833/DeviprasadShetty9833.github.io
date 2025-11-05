@@ -38,7 +38,7 @@ Example: “I’m an IT engineering student passionate about building intelligen
 <div align="center">
 
 <footer>
-  <p>© 2025 My_Portfolio. Designed with ❤️ by Deviprasad Shetty</p>
+  <p>© 2025 My_Website. Designed with ❤️ by Deviprasad Shetty</p>
 </footer>
 
 </div>
