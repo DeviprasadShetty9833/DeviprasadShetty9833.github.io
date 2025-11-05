@@ -16,6 +16,8 @@
 
 ![image_alt](https://github.com/DeviprasadShetty9833/My_Website/blob/26f976ac2627a1eda4f0050e306ca19d8e0a3099/Hero.png)
 
+- Host website using GitHub Pages : [GitHub_guide]()
+
 About section: S shaped Flexbox
 <br> |Acad-|----------Passion----------
 <br> |emics|-----Who I Am-----|Current|
