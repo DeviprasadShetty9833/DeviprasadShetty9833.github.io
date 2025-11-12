@@ -38,12 +38,10 @@ About section: S shaped Flexbox
 ```
 
 Few Examples:
-```
-https://www.thatayush.dev/
-```
-```
-https://dubeyrishabh108.vercel.app/
-```
+
+- [Ayush Yadav](https://www.thatayush.dev/)
+- [Rishab Dubey](https://dubeyrishabh108.vercel.app/)
+
 
 ---
 
