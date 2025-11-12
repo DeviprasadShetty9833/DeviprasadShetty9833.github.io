@@ -16,12 +16,10 @@
 
 ![image_alt](https://github.com/DeviprasadShetty9833/My_Website/blob/26f976ac2627a1eda4f0050e306ca19d8e0a3099/Hero.png)
 
+![Status](https://img.shields.io/badge/Status-Coming_Soon-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)
+
 - Host website using GitHub Pages : [GitHub_guide](https://github.com/DeviprasadShetty9833/GitHub_guide)
 
-About section: S shaped Flexbox
-<br> |Acad-|----------Passion----------
-<br> |emics|-----Who I Am-----|Current|
-<br> -----Call-to-Action------|Work   |
 
 Changes:
 - In the hero section, Remove the rotating web, Print '.' in the hero section such that fades downward. Put an animated computer guy using ASCII.
@@ -32,6 +30,12 @@ Changes:
 Example: “I’m an IT engineering student passionate about building intelligent systems that merge software and innovation.”
   - Currently Working 
   - Call-to-Action
+```
+About section: S shaped Flexbox
+ |Acad-|----------Passion----------
+ |emics|-----Who I Am-----|Current|
+ -----Call-to-Action------| Work  |
+```
 
 ---
 
