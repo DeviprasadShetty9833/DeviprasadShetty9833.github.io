@@ -14,6 +14,8 @@
 
 ---
 
+![image_alt](assets/sharingan-gif-9.gif)
+
 ![image_alt](https://github.com/DeviprasadShetty9833/My_Website/blob/26f976ac2627a1eda4f0050e306ca19d8e0a3099/Hero.png)
 
 ![Status](https://img.shields.io/badge/Status-Coming_Soon-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)
