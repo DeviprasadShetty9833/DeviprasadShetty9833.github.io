@@ -14,7 +14,7 @@
 
 ---
 
-<div align = centre>
+<div align = center>
 
 ![image_alt](assets/sharingan-gif-9.gif)
 
