@@ -13,7 +13,7 @@
 
 </div>
 
-![Status](https://img.shields.io/badge/Status-Coming_Soon-green?style=for-the-badge&logo=firefox&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Coming_Soon-darkgreen?style=for-the-badge&logo=firefox&logoColor=white)
 
 - Host website using GitHub Pages : [GitHub_guide](https://github.com/DeviprasadShetty9833/GitHub_guide)
 
